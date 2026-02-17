@@ -11,8 +11,9 @@
     "duration": 4,
     "prerequisites": [
         "python-lists-introduction",
-        "python-exceptions",
-        "python-lists-concatenation-shared-references"
+        "python-exceptions"
     ],
-    "related": []
+    "related": [
+        "python-lists-concatenation-shared-references"
+    ]
 }
