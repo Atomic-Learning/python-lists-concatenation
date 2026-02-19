@@ -14,6 +14,7 @@
         "python-exceptions"
     ],
     "related": [
-        "python-lists-concatenation-shared-references"
+        "python-lists-concatenation-shared-references",
+        "python-strings-concatenation"
     ]
 }
